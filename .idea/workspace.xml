@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f33e20b-90e4-4c2d-8560-9be7b685fec9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZuMQPCvBa8uwL3lXAqrrdrB8wd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f33e20b-90e4-4c2d-8560-9be7b685fec9" name="Default Changelist" comment="" />
+      <created>1585684508972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585684508972</updated>
+      <workItem from="1585684511104" duration="328000" />
+      <workItem from="1585685218123" duration="11331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585764263203">
+      <screen x="42" y="23" width="1302" height="817" />
+    </state>
+    <state x="415" y="241" key="#com.intellij.fileTypes.FileTypeChooser/42.23.1302.817@42.23.1302.817" timestamp="1585764263203" />
+    <state x="584" y="284" width="700" height="530" key="recent.locations.popup" timestamp="1585775226433">
+      <screen x="45" y="23" width="1299" height="817" />
+    </state>
+    <state x="584" y="284" width="700" height="530" key="recent.locations.popup/45.23.1299.817@45.23.1299.817" timestamp="1585775226433" />
+    <state x="358" y="164" key="search.everywhere.popup" timestamp="1585684529940">
+      <screen x="42" y="23" width="1302" height="817" />
+    </state>
+    <state x="358" y="164" key="search.everywhere.popup/42.23.1302.817@42.23.1302.817" timestamp="1585684529940" />
+  </component>
+</project>
